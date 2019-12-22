@@ -1,0 +1,7 @@
+Start Longitude  115.4167328
+Start Latitude   -8.64660302
+
+End Longitude    115.6385193
+End Latitude     -8.83052382
+
+https://www.mapcoordinates.net/en
